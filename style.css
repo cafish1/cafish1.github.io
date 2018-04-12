@@ -1,11 +1,16 @@
 p{
-margin-left: 30px;
+margin-left: 50px;
 
  }
  
+h1{
+text-align: center; 
+ 
+  }
+ 
 ul{
  
- list-style-type: none;
+    list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -13,7 +18,7 @@ ul{
   }
   
   li{
-  
+  text-decoration: underline;
   float: left;
   
    }
