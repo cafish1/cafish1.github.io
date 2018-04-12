@@ -3,8 +3,17 @@ margin-left: 30px;
 
  }
  
- #menu{
+ul{
  
- display:inline;</p>
+ list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
  
   }
+  
+  li{
+  
+  float: left;
+  
+   }
